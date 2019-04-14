@@ -1,0 +1,55 @@
+.container {
+    background-color: rgb(255, 0, 140);
+    width: 400px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.form {
+    border-radius: 15px;
+    background-color: #f0f0f0;
+    width: 380px;
+    margin: 0 auto;
+    padding: 10px;
+    font-family: 'Sarabun', sans-serif;
+    color: black;
+}
+
+.addButton {
+    padding: 7px 25px;
+    border-radius: 5px;
+    width: 100%;
+    background-color: rgb(220, 110, 145);
+    color: white;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  .strikethrough {
+    text-decoration: line-through;
+  }
+
+  .xButton {
+    float:right;
+  }
+
+  .listHeader {
+      font-size: 24px;
+  }
+
+  .completeButton {
+    background-color: white;
+    color: rgb(244, 130, 160);
+    border-color: rgb(244, 130, 160);
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin-right: 10px;
+  }
